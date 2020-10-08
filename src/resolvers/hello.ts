@@ -7,3 +7,4 @@ export class HelloResolver {
     return 'hello world';
   }
 }
+//foo
