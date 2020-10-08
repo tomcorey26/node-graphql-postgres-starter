@@ -1,0 +1,12 @@
+postgres might be automatically running on
+laptop
+
+to start:
+brew services start postgresql
+
+to stop:
+brew services stop postgresql
+
+start:
+run postgres
+run dev server: npm run dev
